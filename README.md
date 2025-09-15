@@ -1,13 +1,8 @@
 # SuleimanHajizadeh
+
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Suleiman Hajizadeh WCU <a href="https://www.wcu.edu.az/en/">Western Caspian University</a></font></h1>
 <h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/suleiman-hajizadeh-609732213/" target="_blank" rel="noreferrer">Suleiman</a> is a passionate Front-end Developer from Azerbaijan, study on Western Caspian University. Feel free to reach out for any Freelance Projects.</font></h3>
-
-<!-- Schedule a 1-on-1 Call Section -->
-<h3 align="left"><font size="+2" face="Verdana">Schedule a 1-on-1 Call:</font></h3>
-<p align="left">
-  <a href="https://topmate.io/nasiullha_chaudhari" target="_blank" rel="noreferrer"> Book a Call with me! </a>
-</p>
 
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
@@ -16,7 +11,7 @@
 <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
 
 
-- I work on DevOps, Microservices, containers, and everything around it.
+- I work on Front-end Development.
 - I’m looking to collaborate on **Cloud-native Projects**
 
 

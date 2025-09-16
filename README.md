@@ -42,6 +42,6 @@
 - 💬 Ask me about **Front-end Development**
 - 📫 How to reach me **[suleyman.hacizade1@gmail.com](mailto:suleyman.hacizade1@gmail.com)**
 - ⚡ Fun fact **I create YouTube videos**
-
+- GitHub generator for url link - https://rahuldkjain.github.io/gh-profile-readme-generator/ and https://profile-readme-generator.com/
 
 

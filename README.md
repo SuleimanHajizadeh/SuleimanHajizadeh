@@ -23,7 +23,7 @@
 <p align="left"><img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" title="ubuntu" width="40" height="40"/> <img src="https://cdn-icons-png.flaticon.com/512/2/2235.png" alt="macos" title="macos" width="40" height="40"/> </p>
 
 #### Database Stack
-<p align="left"><img src="https://www.svgrepo.com/svg/331760/sql-database-generic" alt="sql" title="sql" width="40" height="40"/>  </p>
+<p align="left"><img src="https://www.techmonitor.ai/wp-content/uploads/sites/29/2016/06/SQL.png" alt="sql" title="sql" width="40" height="40"/>  </p>
 
 #### Dev Stack
 <p align="left"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" title="figma" width="40" height="40"/> </p>

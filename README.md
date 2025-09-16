@@ -39,8 +39,8 @@
 <p align="left">
 </p>
 
-- 💬 Ask me about **DevOps**
-- 📫 How to reach me **[cloudchamp44@gmail.com](mailto:cloudchamp44@gmail.com)**
+- 💬 Ask me about **Front-end Development**
+- 📫 How to reach me **[suleyman.hacizade1@gmail.com](mailto:suleyman.hacizade1@gmail.com)**
 - ⚡ Fun fact **I create YouTube videos**
 
 

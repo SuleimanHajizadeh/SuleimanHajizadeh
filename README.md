@@ -26,7 +26,7 @@
 <p align="left"><img src="https://symbols.getvecta.com/stencil_27/79_sql-database-generic.494ff6320e.png" alt="SQL" title="SQL" width="40" height="40"/>  </p>
 
 #### Dev Stack
-<p align="left"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" title="figma" width="40" height="40"/> </p>
+<p align="left"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" title="Figma" width="40" height="40"/> </p>
 
 #### Project Management Stack
 <p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" title="github" width="40" height="40"/></p>

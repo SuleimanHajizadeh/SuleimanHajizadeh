@@ -17,22 +17,22 @@
 
 
 #### Programming Language Stack
-<p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="javascript" title="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" title="c" title="c" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" title="typescript" title="typescript" width="40" height="40"/>  </p>
+<p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" title="Bash" title="bash" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40"/>  </p>
 
 #### OS Stack
-<p align="left"><img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" title="ubuntu" width="40" height="40"/> <img src="https://cdn-icons-png.flaticon.com/512/2/2235.png" alt="macos" title="macos" width="40" height="40"/> </p>
+<p align="left"><img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="Ubuntu" title="Ubuntu" width="40" height="40"/> <img src="https://cdn-icons-png.flaticon.com/512/2/2235.png" alt="MacOs" title="MacOs" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Windows_logo_-_2012.png" alt="Windows" title="Windows" width="40" height="40"/> </p>
 
 #### Database Stack
-<p align="left"><img src="https://symbols.getvecta.com/stencil_27/79_sql-database-generic.494ff6320e.png" alt="sql" title="sql" width="40" height="40"/>  </p>
+<p align="left"><img src="https://symbols.getvecta.com/stencil_27/79_sql-database-generic.494ff6320e.png" alt="SQL" title="SQL" width="40" height="40"/>  </p>
 
 #### Dev Stack
-<p align="left"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" title="figma" width="40" height="40"/> </p>
+<p align="left"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" title="figma" width="40" height="40"/> </p>
 
 #### Project Management Stack
-<p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" title="github" width="40" height="40"/></p>
+<p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" title="github" width="40" height="40"/></p>
 
 #### Editor / IDE I ♥
-<p align="left"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> <img src="https://vectorseek.com/wp-content/uploads/2023/08/Xcode-Logo-Vector.svg-.png" alt="Xcode" title="Xcode" width="40" height="40"/> </p>
+<p align="left"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" title="VS Code" width="40" height="40"/> <img src="https://vectorseek.com/wp-content/uploads/2023/08/Xcode-Logo-Vector.svg-.png" alt="Xcode" title="Xcode" width="40" height="40"/> </p>
 
 
 

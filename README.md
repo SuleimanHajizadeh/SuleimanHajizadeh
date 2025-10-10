@@ -1,7 +1,7 @@
 # SuleimanHajizadeh
 
 <!-- Header Section -->
-<h1 align="center"><font face="Arial">Hi 👋, I'm Suleiman Hajizadeh <a href="https://www.wcu.edu.az/en/">Western Caspian University</a></font></h1>
+<h1 align="center"><font face="Arial">Hi 👋, I'm Suleiman Hajizadeh student at the <a href="https://www.wcu.edu.az/en/">Western Caspian University</a></font></h1>
 <h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/suleiman-hajizadeh-609732213/" target="_blank" rel="noreferrer">Suleiman</a> is a passionate Front-end Developer from Azerbaijan, study on Western Caspian University. Feel free to reach out for any Freelance Projects.</font></h3>
 
 <!-- GIF -->

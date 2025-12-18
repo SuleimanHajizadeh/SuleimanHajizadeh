@@ -14,8 +14,6 @@
 - I work on Front-end Development.
 - I’m looking to collaborate on **Front-end-native Projects**
 
-
-
 #### Programming Language Stack
 <p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" title="Bash" title="bash" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40"/>  </p>
 
@@ -25,16 +23,11 @@
 #### Database Stack
 <p align="left"><img src="https://symbols.getvecta.com/stencil_27/79_sql-database-generic.494ff6320e.png" alt="SQL" title="SQL" width="40" height="40"/>  </p>
 
-#### Dev Stack
-<p align="left"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" title="Figma" width="40" height="40"/> </p>
-
 #### Project Management Stack
 <p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" title="GitHub" width="40" height="40"/></p>
 
 #### Editor / IDE I ♥
 <p align="left"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" title="VS Code" width="40" height="40"/> </p>
-
-
 
 <!-- Contact Section -->
 <h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
@@ -45,5 +38,3 @@
 - 📫 How to reach me **[suleyman.hacizade1@gmail.com](mailto:suleyman.hacizade1@gmail.com)**
 - ⚡ Fun fact **I create YouTube videos**
 - GitHub generator for url link - https://rahuldkjain.github.io/gh-profile-readme-generator/ and https://profile-readme-generator.com/
-
-

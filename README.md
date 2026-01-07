@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=SuleimanHajizadeh&color=blue)
 # 👋 Hi! I am **Suleiman Hajizadeh**
 
 **Full‑Stack Web Developer ⚡ | Pharmacist ⚕️ | Aspiring Bioinformatician 🧬**

@@ -15,7 +15,7 @@ I am developing my skills in **web development**, **low-level programming**, **P
 - 🌍 **Baku, Azerbaijan**
 
 🔗 Social Media & Contact:  
-[LinkedIn](https://www.linkedin.com/in/suleiman-hajizadeh-609732213) | [Instagram](https://www.instagram.com/suleiman_hajizadeh) | [Facebook](https://www.facebook.com/profile.php?id=100009386619578) | [YouTube](https://www.youtube.com/channel/UCxysAPrALm_fl9Q5LBrqQJQ) | Email: *suleyman.hacizade1@gmail.com*
+[LinkedIn](https://www.linkedin.com/in/suleiman-hajizadeh-609732213) | [Instagram](https://www.instagram.com/suleiman_hajizadeh) | [Facebook](https://www.facebook.com/suleiman.hajizadeh) | [YouTube](https://www.youtube.com/@SuleimanHajizadeh) | Email: *suleyman.hacizade1@gmail.com*
 
 ---
 

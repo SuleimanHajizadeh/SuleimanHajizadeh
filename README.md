@@ -40,18 +40,6 @@ I am developing my skills in **web development**, **low-level programming**, **P
 
 ---
 
-## 🔭 Selected Projects (Repositories)
-
-| Repo Name | Language | Short Description |
-|-----------|---------|------------------|
-| Asterisk-practise | Shell | Asterisk configuration and test scripts |
-| holbertonschool-web_back_end | Python | Backend development exercises |
-| holbertonschool-higher_level_programming | Python | Advanced Python projects |
-| holbertonschool-printf | C | Custom printf function implementation |
-| holbertonschool-low_level_programming | C | Low-level programming exercises |
-
----
-
 ## 🚀 What I am Looking For
 
 - Project collaboration in **full-stack and bioinformatics**  

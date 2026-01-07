@@ -1,40 +1,65 @@
-# SuleimanHajizadeh
+# 👋 Hi! I am **Suleiman Hajizadeh**
 
-<!-- Header Section -->
-<h1 align="center"><font face="Arial">Hi 👋, I'm Suleiman Hajizadeh is a student at the <a href="https://www.wcu.edu.az/en/">Western Caspian University</a></font></h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/suleiman-hajizadeh-609732213/" target="_blank" rel="noreferrer">Suleiman</a> is a passionate Front-end Developer from Azerbaijan, study on Western Caspian University. Feel free to reach out for any Freelance Projects.</font></h3>
+**Full‑Stack Web Developer ⚡ | Pharmacist ⚕️ | Aspiring Bioinformatician 🧬**
 
-<!-- GIF -->
-<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+I am developing my skills in **web development**, **low-level programming**, **Python**, **C**, **Asterisk**, and **bioinformatics**. I love coding and working on real-world projects.
 
-<!-- Languages and Tools Section -->
-<h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
+---
 
+## 🌟 About Me
 
-- I work on Front-end Development.
-- I’m looking to collaborate on **Front-end-native Projects**
+- 🎓 Education: *Bachelor* – **Western Caspian University**  
+- 💻 **Full‑Stack Development** (Python, JavaScript, React, Node.js)  
+- 💊 **Pharmacy Background**  
+- 🧬 **Bioinformatics & Computational Biology Enthusiast**  
+- 🌍 **Baku, Azerbaijan**
 
-#### Programming Language Stack
-<p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" title="Bash" title="bash" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40"/>  </p>
+🔗 Social Media & Contact:  
+[LinkedIn](https://www.linkedin.com/in/suleiman-hajizadeh-609732213) | [Instagram](https://www.instagram.com/suleiman_hajizadeh) | [Facebook](https://www.facebook.com/profile.php?id=100009386619578) | [YouTube](https://www.youtube.com/channel/UCxysAPrALm_fl9Q5LBrqQJQ) | Email: *suleyman.hacizade1@gmail.com*
 
-#### OS Stack
-<p align="left"><img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="Ubuntu" title="Ubuntu" width="40" height="40"/> <img src="https://cdn-icons-png.flaticon.com/512/2/2235.png" alt="MacOs" title="MacOs" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Windows_logo_-_2012.png" alt="Windows" title="Windows" width="40" height="40"/> </p>
+---
 
-#### Database Stack
-<p align="left"><img src="https://symbols.getvecta.com/stencil_27/79_sql-database-generic.494ff6320e.png" alt="SQL" title="SQL" width="40" height="40"/>  </p>
+## 💻 Technologies & Tools
 
-#### Project Management Stack
-<p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" title="GitHub" width="40" height="40"/></p>
+### Programming Languages
+![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)  
+![C](https://img.shields.io/badge/-C-333333?style=flat-square&logo=c)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript)  
+![Bash](https://img.shields.io/badge/-Bash-333333?style=flat-square&logo=gnu-bash)
 
-#### Editor / IDE I ♥
-<p align="left"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" title="VS Code" width="40" height="40"/> </p>
+### Web & Backend
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat-square&logo=html5)  
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat-square&logo=css3)  
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat-square&logo=node.js)  
+![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=react)  
 
-<!-- Contact Section -->
-<h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
-<p align="left">
-</p>
+### Systems & Voice Services
+- **Asterisk VoIP Projects** – SIP, PJSIP, call scripts  
+- Linux / Shell scripting  
+- Git / GitHub  
 
-- 💬 Ask me about **Front-end Development**
-- 📫 How to reach me **[suleyman.hacizade1@gmail.com](mailto:suleyman.hacizade1@gmail.com)**
-- ⚡ Fun fact **I create YouTube videos**
-- GitHub generator for url link - https://rahuldkjain.github.io/gh-profile-readme-generator/ and https://profile-readme-generator.com/
+---
+
+## 🔭 Selected Projects (Repositories)
+
+| Repo Name | Language | Short Description |
+|-----------|---------|------------------|
+| Asterisk-practise | Shell | Asterisk configuration and test scripts |
+| holbertonschool-web_back_end | Python | Backend development exercises |
+| holbertonschool-higher_level_programming | Python | Advanced Python projects |
+| holbertonschool-printf | C | Custom printf function implementation |
+| holbertonschool-low_level_programming | C | Low-level programming exercises |
+
+---
+
+## 🚀 What I am Looking For
+
+- Project collaboration in **full-stack and bioinformatics**  
+- Opportunities to work on real-world problems  
+- Cooperation with teams passionate about coding  
+
+---
+
+## 💬 Let's Talk!
+
+If you are interested in collaboration or have questions about **Python**, **C**, **Asterisk**, **React**, **Node.js**, or **bioinformatics**, feel free to contact me! 👨‍💻

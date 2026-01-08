@@ -2,6 +2,8 @@
 # 👋 Hi! I am **Suleiman Hajizadeh**
 
 **Full‑Stack Web Developer ⚡ | Pharmacist ⚕️ | Aspiring Bioinformatician 🧬**
+<!-- GIF -->
+<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
 I am developing my skills in **web development**, **low-level programming**, **Python**, **C**, **Asterisk**, and **bioinformatics**. I love coding and working on real-world projects.
 

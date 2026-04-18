@@ -14,7 +14,7 @@ I am developing my skills in **web development**, **low-level programming**, **P
 - 🎓 Education: *Bachelor* – **Western Caspian University**  
 - 💻 **Full‑Stack Development** (Python, JavaScript, React, Node.js)  
 - 💊 **Pharmacy Background**  
-- 🧬 **Bioinformatics & Computational Biology Enthusiast**  
+- 🧬 **Bioinformatician & Computational Biologist**  
 - 🌍 **Baku, Azerbaijan**
 
 🔗 Social Media & Contact:  

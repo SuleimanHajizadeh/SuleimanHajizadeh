@@ -58,9 +58,7 @@ I design and implement end-to-end bioinformatics pipelines to answer clinical an
 
 ## 📊 GitHub Stats
 
-![Suleiman's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuleimanHajizadeh&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuleimanHajizadeh&layout=compact&theme=transparent&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=SuleimanHajizadeh&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 ---
 

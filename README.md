@@ -44,15 +44,6 @@ I design and implement end-to-end bioinformatics pipelines to answer clinical an
 
 ---
 
-## 📄 Publications & Manuscripts
-
-| Status | Title | Journal / Target | Year |
-|--------|-------|------------------|------|
-| 🔄 **Under Review** | *Integrative Transcriptomic Profiling of the Tumor Microenvironment and Identification of Prognostic Biomarkers in Triple-Negative Breast Cancer* | **PLOS ONE** | 2026 |
-| 📝 **In Preparation** | *Multi-phase transcriptomic and co-expression network analysis of Triticum aestivum under heat-stress conditions* | **Nature Scientific Reports** (Target) | 2026 |
-
----
-
 ## 🚀 Key Projects
 
 | Project | Description | Tools |

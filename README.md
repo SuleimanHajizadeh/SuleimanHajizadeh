@@ -12,47 +12,47 @@
 
 ## 🔬 Research Focus
 
-I design and implement end-to-end bioinformatics pipelines to answer clinical and biological questions at the genomic scale. My work spans:
+I design and implement end-to-end computational pipelines to address biological questions at genomic, transcriptomic, and structural scales. My work spans:
 
-- **Cancer Transcriptomics** — RNA-seq differential expression, pathway enrichment, ML-based subtype classification (TNBC)
-- **Plant Genomics** — Heat-stress response modeling in *Triticum aestivum* (wheat) using non-linear statistics and co-expression networks
-- **Clinical Genomics** — Personal SNP annotation with NIH ClinVar for pharmacogenomic interpretation
-- **Molecular Evolution** — Phylogenetic reconstruction with MEGA12, ITOL visualization, and multiple sequence alignment
-- **Structural Biology** — Protein-ligand interaction analysis with Biopython and PyMOL
+- **Cancer Transcriptomics** — RNA-seq differential expression, pathway enrichment, co-expression networks, ML-based subtype classification (TNBC)
+- **Structural Biology** — AI-based protein structure prediction with AlphaFold2 (ColabFold), pLDDT confidence analysis, Ramachandran analysis, contact maps, PyMOL visualization
+- **Plant Genomics** — Heat-stress response modeling in *Triticum aestivum* using non-linear statistics and gene co-expression networks
+- **Molecular Evolution** — Phylogenetic reconstruction with MEGA12, ITOL tree visualization, and multiple sequence alignment
+- **Bioinformatics Education** — Structured pipelines covering Biopython, Oxford Nanopore metagenomics, and computational mathematics
 
 ---
 
 ## 🧰 Technical Stack
 
-### Bioinformatics Tools
+### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Biopython](https://img.shields.io/badge/Biopython-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-### NGS Pipeline
-`HISAT2` · `DESeq2` · `FastQC` · `Trimmomatic` · `featureCounts` · `STAR`
+### NGS & Structural Biology
+`HISAT2` · `DESeq2` · `FastQC` · `Trimmomatic` · `featureCounts` · `AlphaFold2` · `ColabFold` · `PyMOL` · `Biopython`
 
 ### Statistics & ML
-`PCA` · `Random Forest` · `Clustering` · `ANOVA` · `Non-linear Regression`
+`PCA` · `Random Forest` · `Clustering` · `ANOVA` · `Non-linear Regression` · `Co-expression Networks`
 
 ### Molecular Evolution
 `MEGA12` · `ITOL` · `ClustalW` · `MUSCLE` · `Neighbor-Joining` · `Maximum Likelihood`
 
-### Genomics Databases
-`NIH ClinVar` · `TCGA` · `GEO` · `KEGG` · `Reactome` · `UniProt`
+### Databases & Platforms
+`UniProt` · `TCGA` · `GEO` · `KEGG` · `Reactome` · `NIH ClinVar` · `PDB` · `Google Colab`
 
 ---
 
-## 🚀 Key Projects
+## 🚀 Featured Projects
 
 | Project | Description | Tools |
 |---------|-------------|-------|
-| [**TNBC Transcriptomics**](https://github.com/SuleimanHajizadeh/Bioinformatics-analysis) | Full RNA-seq pipeline for Triple-Negative Breast Cancer subtype classification · PLOS ONE submission | DESeq2, PCA, Random Forest |
-| [**Wheat Heat-Stress Genomics**](https://github.com/SuleimanHajizadeh/IMBB) | 5-phase bioinformatics pipeline: LT50 modeling → Heatmap → PCA → Co-expression network | R, ggplot2, igraph |
-| [**Personal Clinical Genomics**](https://github.com/SuleimanHajizadeh/Bioinformatics-analysis) | 609K SNP × NIH ClinVar annotation pipeline for pharmacogenomic interpretation | Python, pandas |
-| [**Molecular Evolution Analysis**](https://github.com/SuleimanHajizadeh/MEGA-Software-Molecular-Evolutionary-Genetics-Analysis) | COL1A1 gene phylogenetics, ITOL tree visualization, multi-species alignment | MEGA12, ITOL |
-| [**Biopython Learning Pipeline**](https://github.com/SuleimanHajizadeh/Biopython-Practised) | 27+ structured exercises: sequence analysis, MSA, protein-ligand docking, clinical ANOVA | Biopython, PyMOL |
+| [**AlphaFold2 — AKT1 Structural Analysis**](https://github.com/SuleimanHajizadeh/AlphaFold-TNBC) | 3D structure prediction of TNBC hub kinase AKT1 via ColabFold v1.6.1. Per-residue pLDDT analysis (mean: 65.61), Ramachandran plot, Cα contact map, PyMOL 3D renders | AlphaFold2, Biopython, PyMOL |
+| [**TNBC Transcriptomics Pipeline**](https://github.com/SuleimanHajizadeh/Bioinformatics-analysis) | End-to-end RNA-seq pipeline for Triple-Negative Breast Cancer: DESeq2 differential expression → pathway enrichment → ML subtype classification. Manuscript under review in PLOS ONE | DESeq2, PCA, Random Forest |
+| [**Bioinformatics Education Hub**](https://github.com/SuleimanHajizadeh/Bioinformatics) | Curated resources covering Biopython, Oxford Nanopore metagenomics protocols, and Cambridge ML mathematics curriculum | Python, R, Nanopore |
+| [**Molecular Evolution — COL1A1**](https://github.com/SuleimanHajizadeh/MEGA-Software-Molecular-Evolutionary-Genetics-Analysis) | Multi-species phylogenetic reconstruction of COL1A1, ITOL tree visualization, ClustalW/MUSCLE alignment | MEGA12, ITOL |
+| [**Biopython Practised**](https://github.com/SuleimanHajizadeh/Biopython-Practised) | 27+ structured exercises: sequence parsing, MSA, protein structure analysis, clinical ANOVA | Biopython, PyMOL |
 
 ---
 
@@ -64,7 +64,7 @@ I design and implement end-to-end bioinformatics pipelines to answer clinical an
 
 ## 🎓 Academic Goal
 
-Currently preparing for **MPhil/PhD in Computational Biology** at leading research universities (University of Cambridge, ETH Zürich). My research experience in cancer genomics, plant systems biology, and molecular evolution forms the foundation of my academic portfolio.
+Preparing for **MPhil/PhD in Computational Biology** at leading research universities, with particular focus on the **University of Cambridge**. My research covers cancer genomics, AI-based structural biology, plant systems biology, and molecular evolution — a multi-scale approach from transcriptome to atomic structure.
 
 ---
 

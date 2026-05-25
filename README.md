@@ -4,7 +4,7 @@
 
 > *"Bridging molecular biology and data science to decode the language of genomes."*
 
-**Bioinformatician @ Institute of Molecular Biology & Biotechnology (IMBB), Azerbaijan**  
+**Bioinformatician Institute of Molecular Biology & Biotechnology (IMBB), Azerbaijan**  
 **B.Sc. Student, Western Caspian University**  
 📍 Baku, Azerbaijan | ✉️ suleyman.hacizade1@gmail.com
 

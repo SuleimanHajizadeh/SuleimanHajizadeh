@@ -32,7 +32,7 @@ Your recent work on [specific paper title and year — e.g., "single-cell transc
 
 I have linked my GitHub portfolio below, which includes reproducible code for all analyses:
 - RNA-seq pipeline: github.com/SuleimanHajizadeh/Bioinformatics-analysis
-- AlphaFold2 structural analysis: github.com/SuleimanHajizadeh/AlphaFold-TNBC
+- AlphaFold2 structural analysis: github.com/SuleimanHajizadeh/computational-structural-biology
 - Custom phylogenetics CLI: github.com/SuleimanHajizadeh/MEGA-Software-Molecular-Evolutionary-Genetics-Analysis
 
 I hold an IELTS Academic score of [X.X] (obtained [Month] 2026). I am exploring funding through the Gates Cambridge Scholarship and the Cambridge Trust, both of which I intend to apply for in the October 2026 cycle.

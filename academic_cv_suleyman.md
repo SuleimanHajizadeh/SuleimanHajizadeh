@@ -1,6 +1,6 @@
 # SULEYMAN HAJIZADEH
-📧 suleyman.hacizade1@gmail.com | 📱 [Phone Number] | 📍 Baku, Azerbaijan  
-🔗 [LinkedIn Profile] | 🐙 [GitHub Portfolio]
+📧 suleyman.hacizade1@gmail.com | 📍 Baku, Azerbaijan  
+🔗 [LinkedIn](https://www.linkedin.com/in/suleyman-hajizadeh-609732213) | 🐙 [GitHub](https://github.com/SuleimanHajizadeh)
 
 ---
 
@@ -35,8 +35,8 @@
 
 ### 1. High-Throughput Transcriptomics Pipeline (Bulk RNA-Seq & DESeq2)
 *Developed a portable, reproducible pipeline for differential gene expression analysis in Triple-Negative Breast Cancer (TNBC).*
-* **Workflow Automation:** Built a modular [Snakemake](file:///bioinformatics/Github/Bioinformatics-analysis/module_4_tnbc_paper/Snakefile) pipeline integrating raw SRA read downloading (`fasterq-dump`), quality control (`FastQC`), adapter trimming (`Trimmomatic`), genomic alignment to the GRCh38 genome (`HISAT2`), and expression count generation (`featureCounts`).
-* **Differential Expression:** Integrated [DESeq2](file:///bioinformatics/Github/Bioinformatics-analysis/module_4_tnbc_paper/scripts/run_deseq2_analysis.R) to identify Differentially Expressed Genes (DEGs). Documented the statistical principles of the negative binomial model for handling overdispersion, VST transformations, and ComBat-seq batch adjustments in a dedicated [methods primer](file:///bioinformatics/Github/Bioinformatics-analysis/module_4_tnbc_paper/STATISTICAL_METHODS.md).
+* **Workflow Automation:** Built a modular [Snakemake](https://github.com/SuleimanHajizadeh/Bioinformatics-analysis/blob/master/workflows/bulk_rnaseq/Snakefile) pipeline integrating raw SRA read downloading (`fasterq-dump`), quality control (`FastQC`), adapter trimming (`Trimmomatic`), genomic alignment to the GRCh38 genome (`HISAT2`), and expression count generation (`featureCounts`).
+* **Differential Expression:** Integrated [DESeq2](https://github.com/SuleimanHajizadeh/Bioinformatics-analysis/blob/master/workflows/bulk_rnaseq/scripts/run_deseq2_analysis.R) to identify Differentially Expressed Genes (DEGs). Documented the statistical principles of the negative binomial model for handling overdispersion, VST transformations, and ComBat-seq batch adjustments in a dedicated [methods primer](https://github.com/SuleimanHajizadeh/Bioinformatics-analysis/blob/master/docs/STATISTICAL_METHODS.md).
 * **Machine Learning Validation:** Designed a nested Leave-One-Out Cross-Validation (LOOCV) framework in Python with feature selection nested inside the training folds to prevent data leakage, yielding a robust classifier validated by randomized permutation tests (Empirical p-value < 0.05).
 
 ### 2. Custom Computational Phylogenomics Pipeline (`phylo_pipeline.py`)

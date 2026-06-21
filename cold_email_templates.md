@@ -26,7 +26,7 @@ Dear Professor [Last Name],
 
 I am writing to enquire about potential PhD opportunities in your group for the 2026/27 academic year.
 
-I am a final-year Biology undergraduate at Western Caspian University (Baku, Azerbaijan) with independent research experience in computational cancer genomics. My primary project involves building an end-to-end RNA-seq pipeline for triple-negative breast cancer (TNBC): from automated read processing (Snakemake: SRA→HISAT2→featureCounts→DESeq2) through to a nested cross-validated machine learning classifier for molecular subtyping. A manuscript reporting these findings is currently under review at PLOS ONE.
+I am a final-year Biology undergraduate at Western Caspian University (Baku, Azerbaijan) with independent research experience in computational cancer genomics. My primary project involves building an end-to-end RNA-seq pipeline for triple-negative breast cancer (TNBC): from automated read processing (Snakemake: SRA→HISAT2→featureCounts→DESeq2) through to a nested cross-validated machine learning classifier for molecular subtyping. A manuscript reporting these findings has been prepared.
 
 Your recent work on [specific paper title and year — e.g., "single-cell transcriptional heterogeneity in TNBC"] is directly relevant to questions I have been exploring — specifically, whether bulk RNA-seq subtype signatures remain stable when resolved at single-cell resolution. I would be very interested in extending my computational approach in a supervised research environment with access to larger clinical cohorts.
 

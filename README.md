@@ -15,7 +15,7 @@
 
 I design and implement end-to-end computational pipelines that address biological questions at genomic, transcriptomic, and structural scales. I write the **mathematical models** behind the algorithms — not just the GUI buttons.
 
-- **Cancer Transcriptomics** — RNA-seq differential expression (DESeq2 Negative Binomial model), GSEA pathway enrichment, WGCNA co-expression networks, nested cross-validated ML subtype classification (TNBC). *Manuscript under review at PLOS ONE.*
+- **Cancer Transcriptomics** — RNA-seq differential expression (DESeq2 Negative Binomial model), GSEA pathway enrichment, WGCNA co-expression networks, nested cross-validated ML subtype classification (TNBC).
 - **Structural Biology** — Computational protein analysis: Miyazawa-Jernigan contact potential scoring, hydrophobic core detection, B-factor correlation, AlphaFold2 structure prediction (pLDDT analysis, Ramachandran, contact maps)
 - **Molecular Evolution** — Custom Python CLI for phylogenetics: Kimura 2-Parameter (K2P) & Jukes-Cantor (JC69) distance calculation coded from scratch, Neighbor-Joining tree reconstruction without GUI dependency
 - **Reproducible Pipelines** — Snakemake workflows: SRA → FastQC → Trimmomatic → HISAT2 → featureCounts → DESeq2, fully configurable via `config.yaml`
@@ -64,13 +64,7 @@ I design and implement end-to-end computational pipelines that address biologica
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=SuleimanHajizadeh&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
----
 
-## 📄 Publications & Manuscripts
-
-| Title | Status | Journal |
-|-------|--------|---------|
-| *Machine Learning-Based Identification of Transcriptomic Subtypes and Key Biomarkers in Triple-Negative Breast Cancer* | **Under Review** | PLOS ONE |
 
 ---
 

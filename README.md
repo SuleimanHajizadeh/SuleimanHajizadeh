@@ -1,6 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=SuleimanHajizadeh&color=0e7fc0&style=flat-square)
 
 # 🧬 Suleiman Hajizadeh — Computational Biologist
+# ROSALIND: https://rosalind.info/users/ShlomoHajizadeh/
 
 > *"Bridging molecular biology and data science to decode the language of genomes — from transcriptome to atomic structure."*
 

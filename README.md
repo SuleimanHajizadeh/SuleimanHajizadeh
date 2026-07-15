@@ -53,7 +53,7 @@ I design and implement end-to-end computational pipelines that address biologica
 | 🧬 [**Computational Structural Biology**](https://github.com/SuleimanHajizadeh/computational-structural-biology) | AlphaFold2 structure modeling of TNBC kinase AKT1 & chloroplast STN7/STN8 kinases. Autodock Vina ligand-docking pipelines, per-residue pLDDT, Ramachandran plots, contact maps, and PyMOL 3D rendering. | AlphaFold2, AutoDock Vina, PyMOL, Python |
 | 🌡️ [**IMBB Plant Stress Genomics**](https://github.com/SuleimanHajizadeh/IMBB) | Greenhouse crop science modeling (*Triticum aestivum*) at GPBLab. Sigmoidal regression curves (LT50), hierarchical clustering (Antioxidants/HSPs), PCA dimensionality reduction, and Pearson network topologies. | R, Python, ggplot2, PolyPen |
 | 🧪 [**TNBC RNA-Seq & Clinical Genomics**](https://github.com/SuleimanHajizadeh/Bioinformatics-analysis) | Automated Snakemake workflow (SRA→DESeq2), transcriptomic classification (TNBC subtypes via Random Forest with nested CV), and ClinVar annotation of personal MyHeritage microarrays. | Snakemake, R (DESeq2, Seurat), Scikit-Learn |
-| 📚 [**Bioinformatics Education Hub**](https://github.com/SuleimanHajizadeh/Bioinformatics) | Central repository for academic learning. Includes Cambridge ML Mathematics, Biopython curricula, ONT Nanopore sequencing protocols, and a 190k+ line research journal. | R, Python, Bash |
+| 📚 [**Bioinformatics Education Hub**](https://github.com/SuleimanHajizadeh/Bioinformatics) | Central repository for academic learning. Includes Machine Learning Mathematics, Biopython curricula, ONT Nanopore sequencing protocols, and a 190k+ line research journal. | R, Python, Bash |
 | 🔢 [**Phylogenetics CLI (Pure Python)**](https://github.com/SuleimanHajizadeh/MEGA-Software-Molecular-Evolutionary-Genetics-Analysis) | Evolution analysis of COL1A1 without GUI dependencies. Pure Python implementations of Kimura 2-Parameter (K2P) and Jukes-Cantor (JC69) distance matrices and Neighbor-Joining (NJ) trees. | Python, Biopython, NumPy |
 | 📊 [**Biopython Practised**](https://github.com/SuleimanHajizadeh/Biopython-Practised) | 27+ hands-on genomic exercises, multi-sequence alignments, PDB 3D parses (Cα RMSD), and clinical ANOVA biostatistics tutorials. | Biopython, PyMOL, Jupyter |
 | 🏠 [**MyHeritage DNA Archive**](https://github.com/SuleimanHajizadeh/Myheritage) | Personal genomic database. Structured autosomal microarray files, ancestral AutoClusters, and GEDmatch chromosome browsing matches. | Genetic Genealogy, GEDmatch |
@@ -70,14 +70,12 @@ I design and implement end-to-end computational pipelines that address biologica
 
 ## 🎓 Academic Goal
 
-Preparing for **MPhil/PhD in Computational Biology / Genomic Medicine** at leading research universities. Primary target: **University of Cambridge** — MRC Biostatistics Unit, Cancer Research UK Cambridge Institute, and EMBL-EBI collaborative programmes.
+Preparing for **MPhil/PhD in Computational Biology / Genomic Medicine**.
 
-My research philosophy: implement algorithms from their mathematical definitions, not from GUI tools. Every statistical model in my code is backed by a derivation I can defend in a supervisor interview.
+My research philosophy: implement algorithms from their mathematical definitions, not from GUI tools. Every statistical model in my code is backed by a derivation I can defend in a research interview.
 
-**Current preparation:**
+**Current focus:**
 - 🟢 Portfolio: Independent computational biology projects (Phase 1 complete)
-- 🟡 Language: IELTS preparation (target: 7.5+, exam: July 2026)
-- 🔲 Applications: Gates Cambridge + Cambridge Trust (September 2026)
 
 ---
 

@@ -78,5 +78,5 @@ Dedicated and detail-oriented Bioinformatician with a strong background in Genom
 
 ## LANGUAGES
 * **Azerbaijani:** Native
-* **English:** Professional Working Proficiency (Targeting IELTS 7.5+ in July 2026)
+* **English:** Professional Working Proficiency
 * **Russian:** Conversational

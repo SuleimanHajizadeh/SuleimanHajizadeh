@@ -19,7 +19,7 @@
 
 ### 👨🏻‍💻 About & Affiliations
 - 🎓 **Undergraduate Scholar in Biology** at **Western Caspian University (WCU)**.
-- 🔬 **Bioinformatician & Researcher** at the **Institute of Molecular Biology and Biotechnologies (IMB / AR ETN MBİ)**.
+- 🔬 **Bioinformatician & Researcher** at the **Institute of Molecular Biology (IMB / AR ETN MBİ)**.
 - 🏛️ **Founder & Lead** of **[CarboxMol Bioinformatics Club](https://carboxmol-bioinformatics-club.github.io/)** & **[CarboxMol Virtulab](https://github.com/CarboxMol-Virtulab)**, and also **[Carboxmol](https://github.com/carboxmol)** & **[project-carbox](https://github.com/project-carbox)**.
 - 🎯 **Rosalind Master**: Solved **all 284 / 284 (100%)** bioinformatics challenges on [Rosalind](https://rosalind.info/users/ShlomoHajizadeh/).
 - 🧠 **AI & ML Credentials**: Certified by **Stanford Online**, **DeepLearning.AI**, and **Imperial College London** (Mathematics for Machine Learning).

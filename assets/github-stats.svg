@@ -1,0 +1,90 @@
+<svg width="467" height="195" viewBox="0 0 467 195" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="descId">
+  <title id="titleId">Suleiman Hajizadeh's GitHub Stats</title>
+  <desc id="descId">Total Stars, Commits, PRs, Issues, and Organizations across Suleiman Hajizadeh's ecosystem</desc>
+  <style>
+    .header {
+      font: 600 18px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif;
+      fill: #fe428e;
+      animation: fadeInAnimation 0.8s ease-in-out forwards;
+    }
+    .stat {
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif;
+      fill: #a9fef7;
+    }
+    .bold {
+      font-weight: 700;
+    }
+    .rank-text {
+      font: 800 24px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif;
+      fill: #a9fef7;
+    }
+    .rank-sub {
+      font: 600 10px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif;
+      fill: #fe428e;
+    }
+    .icon {
+      fill: #f8d847;
+    }
+  </style>
+
+  <rect x="0.5" y="0.5" rx="6" height="99%" width="466" fill="#141321" stroke="none"/>
+
+  <g transform="translate(25, 35)">
+    <text x="0" y="0" class="header">Suleiman Hajizadeh's GitHub Stats</text>
+  </g>
+
+  <g transform="translate(25, 65)">
+    <!-- Row 1: Total Stars -->
+    <g transform="translate(0, 0)">
+      <svg class="icon" viewBox="0 0 16 16" width="16" height="16" y="-12">
+        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"/>
+      </svg>
+      <text class="stat bold" x="25" y="0">Total Commits (Ecosystem):</text>
+      <text class="stat bold" x="235" y="0">1,420+</text>
+    </g>
+
+    <!-- Row 2: Public & Org Repos -->
+    <g transform="translate(0, 25)">
+      <svg class="icon" viewBox="0 0 16 16" width="16" height="16" y="-12">
+        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8z"/>
+      </svg>
+      <text class="stat bold" x="25" y="0">Total Repositories:</text>
+      <text class="stat bold" x="235" y="0">58</text>
+    </g>
+
+    <!-- Row 3: Organizations Led -->
+    <g transform="translate(0, 50)">
+      <svg class="icon" viewBox="0 0 16 16" width="16" height="16" y="-12">
+        <path fill-rule="evenodd" d="M1.5 14.25c0 .138.112.25.25.25H4v-1.25a.75.75 0 01.75-.75h2.5a.75.75 0 01.75.75v1.25h2.25a.25.25 0 00.25-.25V1.75a.25.25 0 00-.25-.25h-8.5a.25.25 0 00-.25.25v12.5zM1.75 16A1.75 1.75 0 010 14.25V1.75C0 .784.784 0 1.75 0h8.5C11.216 0 12 .784 12 1.75v12.5c0 .085-.006.168-.018.25h2.268a.25.25 0 00.25-.25V8.285a.25.25 0 00-.111-.208l-1.055-.703a.75.75 0 11.832-1.248l1.055.703c.487.325.779.871.779 1.456v5.965A1.75 1.75 0 0114.25 16h-3.5a.75.75 0 01-.197-.026c-.099.017-.2.026-.303.026h-3a.75.75 0 01-.75-.75V14h-1v1.25a.75.75 0 01-.75.75h-3zM3 3.75A.75.75 0 013.75 3h.5a.75.75 0 010 1.5h-.5A.75.75 0 013 3.75zM3.75 6a.75.75 0 000 1.5h.5a.75.75 0 000-1.5h-.5zM3 9.75A.75.75 0 013.75 9h.5a.75.75 0 010 1.5h-.5A.75.75 0 013 9.75zM7.75 9a.75.75 0 000 1.5h.5a.75.75 0 000-1.5h-.5zM7 6.75A.75.75 0 017.75 6h.5a.75.75 0 010 1.5h-.5A.75.75 0 017 6.75zM7.75 3a.75.75 0 000 1.5h.5a.75.75 0 000-1.5h-.5z"/>
+      </svg>
+      <text class="stat bold" x="25" y="0">GitHub Organizations:</text>
+      <text class="stat bold" x="235" y="0">18</text>
+    </g>
+
+    <!-- Row 4: Rosalind Solved -->
+    <g transform="translate(0, 75)">
+      <svg class="icon" viewBox="0 0 16 16" width="16" height="16" y="-12">
+        <path fill-rule="evenodd" d="M8 16A8 8 0 108 0a8 8 0 000 16zm3.78-9.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
+      </svg>
+      <text class="stat bold" x="25" y="0">Rosalind Bioinformatics:</text>
+      <text class="stat bold" x="235" y="0">284 / 284</text>
+    </g>
+
+    <!-- Row 5: Live Portals & APIs -->
+    <g transform="translate(0, 100)">
+      <svg class="icon" viewBox="0 0 16 16" width="16" height="16" y="-12">
+        <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.75 4.75a.75.75 0 00-1.5 0v2.5h-2.5a.75.75 0 000 1.5h2.5v2.5a.75.75 0 001.5 0v-2.5h2.5a.75.75 0 000-1.5h-2.5v-2.5z"/>
+      </svg>
+      <text class="stat bold" x="25" y="0">Verified Certifications:</text>
+      <text class="stat bold" x="235" y="0">32+</text>
+    </g>
+  </g>
+
+  <!-- Rank Circle -->
+  <g transform="translate(385, 108)">
+    <circle cx="0" cy="0" r="42" stroke="#2d2b45" stroke-width="6" fill="none"/>
+    <circle cx="0" cy="0" r="42" stroke="#fe428e" stroke-width="6" stroke-dasharray="250 264" stroke-linecap="round" transform="rotate(-90)" fill="none"/>
+    <text x="0" y="6" text-anchor="middle" class="rank-text">A+</text>
+    <text x="0" y="24" text-anchor="middle" class="rank-sub">ECOSYSTEM</text>
+  </g>
+</svg>

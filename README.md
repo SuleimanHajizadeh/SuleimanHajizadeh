@@ -1,28 +1,52 @@
 <div align="center">
 
 # 🧬 Suleiman Hajizadeh
-### Computational Structural Biologist & Bioinformatician | Deep Learning Researcher
+### Biology Graduate | Bioinformatics | Computational Structural Biology | Scientific Computing
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SuleimanHajizadeh&color=0e7fc0&style=flat-square)
 [![Rosalind](https://img.shields.io/badge/Rosalind-284%2F284_(100%25)-10B981?style=flat-square&logo=target&logoColor=white)](https://rosalind.info/users/ShlomoHajizadeh/)
 [![Certificates](https://img.shields.io/badge/Certifications-32_Verified-0070f3?style=flat-square&logo=googlechrome&logoColor=white)](https://suleimancertificates.github.io/)
 [![University](https://img.shields.io/badge/WCU-Biology-7209b7?style=flat-square)](https://wcu.edu.az/en/)
-[![Institution](https://img.shields.io/badge/IMB-AR_ETN_MBİ-006400?style=flat-square)](https://github.com/Institute-of-Molecular-Biology-IMB)
+[![Institution](https://img.shields.io/badge/IMB-Research_Trainee-006400?style=flat-square)](https://github.com/Institute-of-Molecular-Biology-IMB)
 
 <p align="center">
-  <em>Deciphering macromolecular architecture through structural crystallography, algorithmic genomics, and neural networks.</em>
+  <em>Developing reproducible computational and statistical methods for protein structure validation, macromolecular geometry analysis, and transcriptomic workflows.</em>
 </p>
 
 </div>
 
 ---
 
-### 👨🏻‍💻 About & Affiliations
-- 🎓 **Undergraduate Scholar in Biology** at **Western Caspian University (WCU)**.
-- 🔬 **Bioinformatician & Researcher** at the **Institute of Molecular Biology (IMB / AR ETN MBİ)**.
-- 🏛️ **Founder & Lead** of **[CarboxMol Bioinformatics Club](https://carboxmol-bioinformatics-club.github.io/)** & **[CarboxMol Virtulab](https://github.com/CarboxMol-Virtulab)**, and also **[Carboxmol](https://github.com/carboxmol)** & **[project-carbox](https://github.com/project-carbox)**.
-- 🎯 **Rosalind Master**: Solved **all 284 / 284 (100%)** bioinformatics challenges on [Rosalind](https://rosalind.info/users/ShlomoHajizadeh/).
-- 🧠 **AI & ML Credentials**: Certified by **Stanford Online**, **DeepLearning.AI**, and **Imperial College London** (Mathematics for Machine Learning).
+### 👨🏻‍💻 Academic Profile & Affiliations
+- 🎓 **B.Sc. in Biology (Final-Year Undergraduate / Graduate Track)** at **Western Caspian University (WCU)**.
+- 🔬 **Bioinformatics Research Trainee & Project Collaborator** affiliated with computational biology projects at the **Institute of Molecular Biology and Biotechnologies (IMBB / AR ETN MBİ)** and **Western Caspian University**.
+- 🧪 **Student Initiative Founder:** **[CarboxMol Bioinformatics Club](https://carboxmol-bioinformatics-club.github.io/)** — a student-led bioinformatics and structural biology platform established at Western Caspian University.
+- ⚙️ **Scientific Software Developer (In Active Development):** Creator of **[Carbox](https://github.com/project-carbox)** (macromolecular coordinate & stereochemical geometry engine) and **[CarboxMol](https://github.com/carboxmol)** (3D macromolecular visualization workspace for research & education).
+- 🎯 **Algorithmic Bioinformatics**: Solved **284 / 284 (100%)** bioinformatics algorithmic problems on [Rosalind](https://rosalind.info/users/ShlomoHajizadeh/).
+
+---
+
+### 📄 Publications, Manuscripts & Technical Outputs
+
+*Categorized transparently by publication venue and peer-review status:*
+
+| Work / Title | Category & Status | Identifier / Venue |
+| :--- | :--- | :--- |
+| **AquaMind-AI: An Intelligent IoT and Machine Learning Framework for Closed-Loop Smart Aquaponics** | **Published University Journal Article** *(Peer-reviewed)* | *Research Journal of Adaptive Agriculture and Aquaculture* (2026) · [DOI: 10.54414/ADXC7547](https://rjaaa.wcu.edu.az/articledetail/71) |
+| **Role of *CYP1A1* Gene Polymorphisms in Prostate Cancer Development: Bioinformatic and Epidemiological Review** | **Author Review Manuscript / Preprint** *(Non-indexed preprint)* | Zenodo / ResearchGate (2026) · [ResearchGate Full Text](https://www.researchgate.net/publication/403142792) |
+| **From Transcriptomics to Protein Structure: Exploring AKT1 in Triple-Negative Breast Cancer Using AlphaFold2 & Experimental PDB Validation** | **Computational Research Project & Technical Article** | [Medium Technical Article](https://medium.com/@suleyman.hacizade1/from-transcriptomics-to-protein-structure-exploring-akt1-in-triple-negative-breast-cancer-using-db6a5a3b17ce) & [GitHub Validation Suite](https://github.com/SuleimanComputationalStructuralBiology) (2026) |
+| **Reproducible Bulk & Single-Cell RNA-Seq Pipeline (TNBC Cohort)** | **Open-Source Reproducible Workflow** | [GitHub Repository](https://github.com/SuleimanHajizadeh/Bioinformatics-analysis) (`Snakemake`, `HISAT2`, `featureCounts`, `DESeq2`) |
+| **Carbox & CarboxMol** | **Scientific Software Under Active Development** | [Carbox Engine](https://github.com/project-carbox) · [CarboxMol Workspace](https://github.com/carboxmol) |
+
+---
+
+### 🛠️ Technical Skills (Three-Tier Evidence Classification)
+
+| Evidence Tier | Methods, Tools & Technologies | Verification / Evidence |
+| :--- | :--- | :--- |
+| **1. Demonstrated**<br>*(Backed by public source code, unit tests & reproducible outputs)* | **Python**, **R**, **Biopython**, **PDB/mmCIF Coordinate Parsing**, **Protein Geometry Validation** (Bond lengths/angles, $\phi/\psi/\omega$ dihedrals, Ramachandran statistics, steric clashscore, Kabsch $\text{C}_\alpha$ RMSD), **Bulk RNA-Seq Workflows** (`Snakemake`, `FastQC`, `Trimmomatic`, `HISAT2`, `featureCounts`, `DESeq2`), **Phylogenetics** (`JC69`/`K2P`, Neighbor-Joining), **Time-Series ML Evaluation** (`Scikit-Learn`, walk-forward validation), **Rosalind** (284/284) | Verified across `carbox`, `SuleimanComputationalStructuralBiology`, `SuleimanBioinformaticsAnalysis`, and `AquaMindAI` repositories |
+| **2. Working Knowledge**<br>*(Practical hands-on usage in projects & coursework)* | **PyMOL**, **Coot**, **UCSF ChimeraX**, **AlphaFold2** (`pLDDT`/`PAE` interpretation), **AutoDock Vina**, **GROMACS** (solvation & MD setup), **Seurat** (scRNA-seq QC & clustering), **FastAPI**, **JavaScript/Node.js**, **Git**, **Linux/Bash**, **Docker** | Used in structural modeling workflows, virtual lab scripts, and web portals |
+| **3. Learning & Active Focus**<br>*(2026–2027 Research Roadmap)* | **Experimental Macromolecular Refinement & Validation** (`REFMAC5`, `AceDRG`, `ProSMART`, `Servalcat`, `CCP4` suite), **Bayesian Statistical Modelling** for X-ray Crystallography & Cryo-EM density fitting, **C++ Scientific Computing** | Primary focus area for postgraduate research preparation in Computational Structural Biology |
 
 ---
 
